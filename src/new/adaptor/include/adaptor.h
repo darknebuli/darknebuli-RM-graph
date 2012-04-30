@@ -1,0 +1,1 @@
+../../common/include/adaptor.h
